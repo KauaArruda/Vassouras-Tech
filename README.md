@@ -1,4 +1,4 @@
-# RecomendaFácil
+# Recomenda Fácil - Vassouras Tech
 
 Algoritmo de recomendação baseado em histórico de compras
 
