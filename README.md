@@ -51,20 +51,7 @@ python recomenda_facil.py
 
 ## 🔹 Saída Esperada
 
---- Simulação de Uso ---
-Histórico de Compras (n): 5 itens
-Número de Recomendações Geradas: 9
-------------------------------
---- Análise de Limite ---
-1. Calculando o Limite quando n tende a 10:
-   lim (n->10) (2n - 1) = 19
-   O limite representa que com 10 compras, 19 recomendações são geradas.
-------------------------------
---- Análise da Complexidade Assintótica ---
-Função da Complexidade: f(n) = 2n - 1
-Termo dominante: 2n
-Complexidade Assintótica (Big O): O(n)
-Significado: O tempo de execução cresce de forma LINEAR e previsível em relação ao histórico de compras.
+<img width="682" height="258" alt="image" src="https://github.com/user-attachments/assets/46a51ce5-247b-4a82-9746-ee9ca2cde7d8" />
 
 ## 🔹 Gráfico Gerado
 
